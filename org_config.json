@@ -1,0 +1,20 @@
+{
+		"org": {
+			"orgName": "Org1",
+			"mspid": "os2admin",
+      "adminName": "os2admin",
+      "admin_enrollid": "os2admin",
+      "admin_enrollsecret": "os2adminpw"
+	   },
+     "component": {
+ 			"type": "orderer",
+      "enrollid": "neworderer",
+      "enrollsecret": "newordererpw",
+      "affiliation": "org1.department1",
+      "tls_enrollid": "neworderertls",
+      "tls_enrollsecret": "neworderertlspw",
+      "hostname1": "",
+      "hostname2": "",
+      "hostname3": ""
+ 	   }
+}
